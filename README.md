@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Daniel Silva
 
-<!--
-**dfsilva379-debug/dfsilva379-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Full Game Developer passionate about creating interactive experiences, gameplay systems, and modern applications.
 
-Here are some ideas to get you started:
+💻 I work with game development, software engineering, and creative technologies, always looking to improve my skills and build new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning English and continuously improving as a developer.
+
+## 🚀 About Me
+
+* 🎮 Full Game Developer
+* 💡 Passionate about technology and interactive systems
+* 🛠️ Building games, tools, and creative solutions
+* 📚 Always learning new technologies
+* 🌍 Learning English to connect with the global developer community
+
+## 🧰 Technologies & Tools
+
+* Godot Engine
+* Git & GitHub
+* GDScript
+* Python
+* C#
+
+## 📫 Contact
+
+* GitHub: @dfsilva379-debug
