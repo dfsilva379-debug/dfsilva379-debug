@@ -1,26 +1,29 @@
 # 👋 Hi there, I'm Daniel Silva
 
-🎮 Full Game Developer passionate about creating interactive experiences, gameplay systems, and modern applications.
+📊 Data Analyst passionate about transforming data into insights, building efficient solutions, and continuously learning new technologies.
 
-💻 I work with game development, software engineering, and creative technologies, always looking to improve my skills and build new projects.
+💻 I work with data analysis, automation, and software development, while expanding my knowledge in backend development and cybersecurity to build more robust and secure applications.
 
-🌱 Currently learning English and continuously improving as a developer.
+🌱 Currently learning English, Backend Development, and Cybersecurity while continuously improving my analytical and programming skills.
 
 ## 🚀 About Me
 
-* 🎮 Full Game Developer
-* 💡 Passionate about technology and interactive systems
-* 🛠️ Building games, tools, and creative solutions
-* 📚 Always learning new technologies
-* 🌍 Learning English to connect with the global developer community
+* 📊 Data Analyst
+* 🔒 Studying Cybersecurity
+* ⚙️ Learning Backend Development
+* 💡 Passionate about technology, data, and problem-solving
+* 📚 Always learning new tools and technologies
+* 🌍 Learning English to connect with the global tech community
 
 ## 🧰 Technologies & Tools
 
-* Godot Engine
-* Git & GitHub
-* GDScript
 * Python
-* C#
+* SQL
+* Git & GitHub
+* Power BI
+* Pandas
+* Backend Development
+* Cybersecurity Fundamentals
 
 ## 📫 Contact
 
